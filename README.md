@@ -1,23 +1,25 @@
-<h1 align="center">Hi 👋, I'm Gustavo L.</h1>
-<h3 align="center">Studying Computer Science at State University of Santa Catarina (UDESC/CCT)</h3>
+<!--
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=d4rkks&label=Profile%20views&color=0e75b6&style=flat" alt="d4rkks" /> </p>
+Its first time making a profile in github, might be good 
 
-- 🔭 I’m currently working on **Data PTR Injection**
+                                   —— D4rkks (https://github.com/D4rkks)
+
+-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=d4rkks&label=Profile%20Views&color=006b1d&style=flat" alt="d4rkks" /> </p>
+<h1 align="Left">Hello 👋, Welcome to my Github Page!.</h1>
+<h3 align="center">Gustavo L. - Computer Science Student at State University of Santa Catarina (UDESC/CCT)</h3>
+
+- 🔭 I’m currently working on [**Data PTR Injection**(]https://github.com/D4rkks/dataptrinject)
 
 - 🌱 I’m currently learning **Haskell, Assembly**
 
-- 👨‍💻 All of my projects are available at [https://dark-dev.tech/](https://dark-dev.tech/)
+- 👨‍💻 Portfolio available on: [https://dark-dev.tech/](https://dark-dev.tech/)
 
-- 💬 Ask me about **C++, C#, React.js, Node.js**
+- 💭 Ask me anything about **C++, C#, React.js, Node.js** at [Discussions!](https://github.com/D4rkks/D4rkks/discussions)
 
-- 📫 How to reach me **darksteamlass@gmail.com**
-
-- ⚡ Fun fact **I hate Python**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">💕 Connect with me:</h3>
 <p align="left">
-<a href="https://codeforces.com/profile/d4rkks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="d4rkks" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/d4rkks" target="blank">Codeforces<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="d4rkks" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
