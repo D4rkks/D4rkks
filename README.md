@@ -5,15 +5,22 @@ Its first time making a profile in github, might be good
                                    —— D4rkks (https://github.com/D4rkks)
 
 -->
-<div>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=d4rkks&label=Profile%20Views&color=006b1d&style=flat" alt="d4rkks" /> </p>
-<h1 align="left">Hello 👋, Welcome to my Github Page!</h1>
-</div>
+<table width="100%">
+  <tr>
+    <td align="left">
+      <h1>Hello 👋, Welcome to my Github Page!</h1>
+    </td>
+    <td align="right">
+      <img src="https://komarev.com/ghpvc/?username=d4rkks&label=Profile%20Views&color=006b1d&style=flat" alt="d4rkks" style="vertical-align: middle;"/>
+    </td>
+  </tr>
+</table>
+
 
 <h3 align="center">
   🐱‍👤 Gustavo L. - Computer Science Student at State University of Santa Catarina (UDESC/CCT)
   <a href="https://www.udesc.br/">
-    <img src="https://www.udesc.br/templates/portal_udesc/imagens/marca.png" alt="UDESC" width="60" style="vertical-align: middle; margin-left: 10px; margin-bottom: -15px;">
+    <img src="https://www.udesc.br/templates/portal_udesc/imagens/marca.png" alt="UDESC" width="60" style="vertical-align: middle; margin-left: 10px; margin-bottom: -5px;">
   </a>
 </h3>
 
