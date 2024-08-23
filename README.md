@@ -7,7 +7,7 @@ Its first time making a profile in github, might be good
 -->
 <picture>
   <source srcset="https://komarev.com/ghpvc/?username=d4rkks&label=Profile%20Views&color=006b1d&style=fla">
-  <img align="right" src="https://komarev.com/ghpvc/?username=d4rkks&label=Profile%20Views&color=006b1d&style=fla" style="float: right; margin-left: 20px; margin-top: 20px;" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=d4rkks&label=Profile%20Views&color=006b1d&style=flat" style="float: right; margin-left: 20px; margin-top: 20px;" />
 </picture>
 
 <h1 align="left">Hello 👋, Welcome to my Github Page!</h1>
