@@ -5,12 +5,12 @@ Its first time making a profile in github, might be good
                                    —— D4rkks (https://github.com/D4rkks)
 
 -->
+<picture>
+  <source srcset="https://komarev.com/ghpvc/?username=d4rkks&label=Profile%20Views&color=006b1d&style=fla">
+  <img align="right" src="https://komarev.com/ghpvc/?username=d4rkks&label=Profile%20Views&color=006b1d&style=fla" style="float: right; margin-left: 20px; margin-top: 20px;" />
+</picture>
 
-<div>
-  <p align="right"> <img src="https://komarev.com/ghpvc/?username=d4rkks&label=Profile%20Views&color=006b1d&style=flat" alt="d4rkks" /> </p>
-  <h1 align="left">Hello 👋, Welcome to my Github Page!</h1>
-  </div>
-
+<h1 align="left">Hello 👋, Welcome to my Github Page!</h1>
 <h3 align="center">
   🐱‍👤 Gustavo L. - Computer Science Student at State University of Santa Catarina (UDESC/CCT)
   <a href="https://www.udesc.br/">
@@ -27,7 +27,7 @@ Its first time making a profile in github, might be good
 
 - 🔭 I’m currently working on [**Data PTR Injection**](https://github.com/D4rkks/dataptrinject)
 - 🌱 I’m currently learning **Haskell, Assembly**
-- 👨‍💻 Portfolio available on: [https://dark-dev.tech/](https://dark-dev.tech/)
+- 👨‍💻 Portfolio available on: [My Website](https://dark-dev.tech/)
 - 💭 Ask me anything about **C++, C#, React.js, Node.js** at [Discussions!](https://github.com/D4rkks/D4rkks/discussions)
 
 
