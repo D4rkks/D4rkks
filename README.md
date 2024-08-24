@@ -108,4 +108,9 @@ Its first time making a profile in github, might be good
 </p>
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
