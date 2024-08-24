@@ -22,13 +22,14 @@ Its first time making a profile in github, might be good
 
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api?username=d4rkks&show_icons=true&locale=en&theme=dark">
-  <img align="right" width="25%" src="ttps://github-readme-stats.vercel.app/api?username=d4rkks&show_icons=true&locale=en&theme=dark">
+  <img align="right" width="32%" src="ttps://github-readme-stats.vercel.app/api?username=d4rkks&show_icons=true&locale=en&theme=dark">
 </picture>
 
 - 🔭 I’m currently working on [**Data PTR Injection**](https://github.com/D4rkks/dataptrinject)
 - 🌱 I’m currently learning **Haskell, Assembly**
 - 👨‍💻 Portfolio available on: [My Website](https://dark-dev.tech/)
 - 💭 Ask me anything about **C++, C#, React.js, Node.js** at [Discussions!](https://github.com/D4rkks/D4rkks/discussions)
+- 🐍 Python is dogshit
 
 
 
