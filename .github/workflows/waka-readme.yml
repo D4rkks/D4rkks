@@ -1,1 +1,17 @@
-name: Waka Readmeon:  #%20for%20manual%20workflow%20trigger%20%20workflow_dispatch:%20%20schedule:%20%20%20%20#%20runs%20at%2012%20AM%20UTC%20(5:30%20AM%20IST)%20%20%20%20-%20cron:%20%220%200%20*%20*%20*%22jobs:%20%20update-readme:%20%20%20%20name:%20WakaReadme%20DevMetrics%20%20%20%20runs-on:%20ubuntu-latest%20%20%20%20steps:%20%20%20%20%20%20-%20uses:%20athul/waka-readme@master%20#%20this%20action%20name%20%20%20%20%20%20%20%20with:%20%20%20%20%20%20%20%20%20%20WAKATIME_API_KEY:%20${{%20secrets.WAKATIME_API_KEY%20}}
+name: Waka Readme
+
+on:
+  # for manual workflow trigger
+  workflow_dispatch:
+  schedule:
+    # runs at 12 AM UTC (5:30 AM IST)
+    - cron: "0 0 * * *"
+
+jobs:
+  update-readme:
+    name: WakaReadme DevMetrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master # this action name
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
