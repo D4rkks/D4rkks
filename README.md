@@ -22,7 +22,7 @@ Its first time making a profile in github, might be good
 
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api?username=d4rkks&show_icons=true&locale=en&theme=dark">
-  <img align="right" width="35%" src="ttps://github-readme-stats.vercel.app/api?username=d4rkks&show_icons=true&locale=en&theme=dark">
+  <img align="right" width=40%" src="ttps://github-readme-stats.vercel.app/api?username=d4rkks&show_icons=true&locale=en&theme=dark">
 </picture>
 
 - 🔭 I’m currently working on [**Data PTR Injection**](https://github.com/D4rkks/dataptrinject)
