@@ -111,7 +111,7 @@ Its first time making a profile in github, might be good
 <!--START_SECTION:waka-->
 
 ```txt
-C#   5 hrs 32 mins   🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
