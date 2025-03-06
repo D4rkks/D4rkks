@@ -25,7 +25,7 @@ Its first time making a profile in github, might be good
   <img align="right" width=40%" src="ttps://github-readme-stats.vercel.app/api?username=d4rkks&show_icons=true&locale=en&theme=dark">
 </picture>
 
-- 🔭 I’m currently working on [**Web pharmacy system**](https://github.com/Askeiroh/kaiaki2gus)
+- 🔭 I’m currently working on [**REPO Cheat**](https://github.com/D4rkks/r.e.p.o-cheat)
 - 🌱 I’m currently learning **Haskell, Assembly**
 - 💻 My main system is **Arch Linux [Neofetch](https://github.com/D4rkks/neofetch/blob/main/neofetch)**
 - 👨‍💻 Portfolio available on: [My Website](https://dark-dev.tech/)
