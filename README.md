@@ -5,6 +5,7 @@ Its first time making a profile in github, might be good
                                    —— D4rkks (https://github.com/D4rkks)
 
 -->
+valorant cheats on: https://discord.gg/kmHJGDYg
 <picture>
   <source srcset="https://komarev.com/ghpvc/?username=d4rkks&label=Visitors&color=006b1d&style=fla">
   <img align="right" src="https://komarev.com/ghpvc/?username=d4rkks&label=Visitors&color=006b1d&style=flat" style="float: right; margin-left: 20px; margin-top: 20px;" />
