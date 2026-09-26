@@ -30,7 +30,7 @@ Its first time making a profile in github, might be good
 - 💻 My main system is **Arch Linux [Neofetch](https://github.com/D4rkks/neofetch/blob/main/neofetch)**
 - 👨‍💻 Portfolio available on: [My Website](https://gustavolass.site/)
 - 💭 Ask me anything about **C++, C#, React.js, Node.js** at [Discussions!](https://github.com/D4rkks/D4rkks/discussions)
-- 🐍 Python is doghshit
+- 🐍 Currently Developer and Scholarship Holder at - https://github.com/ColmeiaUDESC/
 
 
 ---
